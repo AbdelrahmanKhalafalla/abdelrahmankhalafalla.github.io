@@ -26,7 +26,7 @@ export function Navigation() {
 
   const navItems = [
     { label: 'Home', id: 'home' },
-    { label: 'Resume', href:'/Abdelrahman Khalafalla Resume.pdf' },
+    { label: 'Resume', href:'./Abdelrahman Khalafalla Resume.pdf' },
     { label: 'LinkedIn', href: 'https://www.linkedin.com/in/abdelrahman-khalafalla/' }
 
     ,

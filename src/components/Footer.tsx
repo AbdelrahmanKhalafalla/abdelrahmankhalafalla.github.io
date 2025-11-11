@@ -29,7 +29,7 @@ export function Footer() {
           label === "Resume" ? (
             <a
               key={label}
-              href='Abdelrahman Khalafalla Resume.pdf'
+              href='./Abdelrahman Khalafalla Resume.pdf' 
               target="_blank"
               rel="noopener noreferrer"
               style={{
